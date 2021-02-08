@@ -1,0 +1,62 @@
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: light;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+strong {
+    font-weight: 700;
+    background-color: yellow;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tbody.td {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input[type=text] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=number] {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+table.body {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+div.form {
+    display: block;
+    text-align: center;
+}
